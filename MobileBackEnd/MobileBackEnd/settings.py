@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'MobileBackEnd.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'MobileBackEnd',
+        'NAME': 'dbmaster',
         'USER': 'root',
-        'PASSWORD': 'Lumia_930',
-        'HOST': 'localhost',
+        'PASSWORD': '6Sg^q87fv=iNI{7wX%9Q]UwI-SY$Wwq<',
+        'HOST': 'ls-eec3ef72c2a3aaaee2d6cf56aa73c8a2a0320f28.cw6poutih7mo.ap-south-1.rds.amazonaws.com',
         'PORT': '3306',
 
     },
